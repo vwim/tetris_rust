@@ -1,4 +1,4 @@
 # tetris_rust
-Yet another teris clone for the Rust programming language.
+Yet another tetris clone for the Rust programming language.
 
 ![alt tag](tetris.png)
