@@ -1,0 +1,9 @@
+[package]
+name = "grid01"
+version = "0.1.0"
+authors = ["Wim V. <wim_ve@yahoo.com>"]
+
+[dependencies]
+piston_window = "0.51.1"
+rand = "0.3"
+find_folder = "0.3.0"
