@@ -186,7 +186,7 @@ fn main() {
 
                             board.merge(&block);
 
-							line_count += board.remove_lines();
+                            line_count += board.remove_lines();
 
                             current_block = None;
                         }
